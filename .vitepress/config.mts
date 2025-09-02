@@ -6,7 +6,7 @@ export default defineConfig({
   description: "Find valuable articles, guides and FAQ.",
   titleTemplate: 'TEST',
   head: [['link', { rel: 'icon', href: '/favicon.ico'}]],
-  base: '/base/',
+  base: '/helpstack/',
   themeConfig: {
     logo: '/logo.svg',
     siteTitle: false,
