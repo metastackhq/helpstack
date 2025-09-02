@@ -1,21 +1,3 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "HELPSTACK"
-  text: "Find valuable articles, guides and FAQ."
-  image:
-    src: /logo-large.svg
-    alt: Metastack
-  actions:
-    - theme: alt
-      text: Strategies
-      link: /strategies
-    - theme: alt
-      text: Nades 
-      link: /nades
----
 
 # 💡 Find All Information Here!
 

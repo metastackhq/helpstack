@@ -1,3 +1,19 @@
 :root {
   --vp-home-hero-name-color: #46aef7;
 }
+
+.metastack-button {
+  display: inline-block;
+  background-color: #3bb3ff; /* your light blue */
+  color: #fff;
+  font-weight: 600;
+  padding: 8px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.2s ease;
+}
+
+.metastack-button:hover {
+  background-color: #1a9be0; /* darker blue on hover */
+}
