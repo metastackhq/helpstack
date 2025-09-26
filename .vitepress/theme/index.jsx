@@ -16,7 +16,7 @@ export default {
             target: '_blank',
             class: 'metastack-button'
           },
-          'Login'
+          'Go To App'
         )
     })
   }

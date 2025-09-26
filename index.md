@@ -1,34 +1,46 @@
+# Help Center – Metastack 
 
-# 💡 Find All Information Here!
+Welcome to the help center for Metastack, the all-in-one strategy companion for **Counter-Strike 2**.  
+Our platform helps players, teams, and coaches build, organize, and optimize tactical knowledge with powerful tools tailored for competitive gameplay.  
 
-This is a comprehensive resource designed to provide you with all the information you need. Whether you're a new user or a seasoned professional, you'll find everything from basic tutorials to advanced guides and troubleshooting tips. Our goal is to empower you with the knowledge to maximize your experience with our application.
+Whether you are a casual player or part of a professional team, this Help Center will guide you through all the features and workflows so you can get the most out of the platform.
 
-***
+## Getting Started
+- [What is Metastack?](./getting-started/what-is.md)
+- [Creating an Account](./getting-started/account.md)
+- [Navigating the Homepage](./getting-started/home.md)
+- [Team vs. Personal Workspaces](./getting-started/workspaces.md)
 
-# 🚀 Getting Started
+## Core Features
+- [Lineups](./features/lineups.md)
+- [Playbook](./features/playbook.md)
+- [Roles](./features/roles.md)
+- [Tables](./features/tables.md)
+- [Callouts](./features/callouts.md)
+- [Keywords](./features/keywords.md)
 
-New to the app? Start here! We'll walk you through the **initial setup**, key features, and a **step-by-step guide** to help you get up and running smoothly.
+## Team & Member Management
+- [Team Profile](./team/team-profile.md)
+- [Members](./team/members.md)
+- [Permissions](./team/permissions.md)
 
-* **Installation:** Learn how to download and install the application on your device.
-* **Account Setup:** A walkthrough of creating your account and configuring your profile.
-* **First Steps:** Your guide to performing your first action within the application.
+## Personalization & Settings
+- [Profile](./settings/profile.md)
+- [Profile Settings](./settings/preferences.md)
 
-***
+## Collaboration Tools
+- [Sharing Strategies](./collaboration/sharing.md)
+- [Import](./collaboration/import.md)
+- [Submissions](./collaboration/submissions.md)
+- [Metapoints](./collaboration/metapoints.md)
+- [Version History](./collaboration/version-history.md)
 
-# ⚙️ Features & Functionality
+## FAQs & Troubleshooting
+- [Common Issues](./faq/common-issues.md)
+- [Contact Support](./faq/support.md)
+- [Feedback & Requests](./faq/feedback.md)
 
-Dive deep into the **core features** of the application. Each section provides a detailed explanation of how a specific feature works, along with practical examples and use cases.
-
-* **Dashboard:** Understand how to navigate your main workspace and interpret key data.
-* **Analytics:** Learn how to generate and analyze reports to gain valuable insights.
-* **Integrations:** A guide to connecting our application with other services you use.
-
-***
-
-# 🆘 Troubleshooting & Support
-
-Encounter an issue? This section is dedicated to helping you solve common problems quickly and efficiently.
-
-* **FAQs:** A list of **frequently asked questions** with quick, clear answers.
-* **Error Codes:** A searchable database of error codes and their solutions.
-* **Contact Support:** If you can't find a solution, here's how to reach our support team directly.
+## Resources
+- [Video Tutorials](./resources/tutorials.md)
+- [Strategy Guides](./resources/guides.md)
+- [Updates & Changelog](./resources/changelog.md)
