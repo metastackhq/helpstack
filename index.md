@@ -29,18 +29,12 @@ Whether you are a casual player or part of a professional team, this Help Center
 - [Profile Settings](./settings/preferences.md)
 
 ## Collaboration Tools
-- [Sharing Strategies](./collaboration/sharing.md)
-- [Import](./collaboration/import.md)
-- [Submissions](./collaboration/submissions.md)
-- [Metapoints](./collaboration/metapoints.md)
-- [Version History](./collaboration/version-history.md)
+- [Sharing](./metastack/sharing.md)
+- [Import](./metastack/import.md)
+- [Submissions](./metastack/submissions.md)
+- [Metapoints](./metastack/metapoints.md)
 
 ## FAQs & Troubleshooting
-- [Common Issues](./faq/common-issues.md)
-- [Contact Support](./faq/support.md)
-- [Feedback & Requests](./faq/feedback.md)
-
-## Resources
-- [Video Tutorials](./resources/tutorials.md)
-- [Strategy Guides](./resources/guides.md)
-- [Updates & Changelog](./resources/changelog.md)
+- [Common Issues](https://discord.gg/metastack)
+- [Contact Support](https://discord.gg/metastack)
+- [Feedback & Requests](https://discord.gg/metastack)
