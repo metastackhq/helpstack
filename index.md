@@ -1,6 +1,7 @@
 # Help Center – Metastack 
 
-Welcome to the help center for Metastack, the all-in-one strategy companion for **Counter-Strike 2**.  
+Welcome to the help center, the all-in-one strategy companion for **Counter-Strike 2**.
+
 Our platform helps players, teams, and coaches build, organize, and optimize tactical knowledge with powerful tools tailored for competitive gameplay.  
 
 Whether you are a casual player or part of a professional team, this Help Center will guide you through all the features and workflows so you can get the most out of the platform.
