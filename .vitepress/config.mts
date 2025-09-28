@@ -21,6 +21,7 @@ export default defineConfig({
           { text: 'Creating an Account', link: '/getting-started/account' },
           { text: 'Navigating the Homepage', link: '/getting-started/home' },
           { text: 'Team vs. Personal Workspaces', link: '/getting-started/workspaces' },
+	  { text: 'Collaborative Content Edit', link: '/getting-started/collaborative-content-edit'},
         ]
       },
       {
