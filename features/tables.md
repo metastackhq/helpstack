@@ -2,7 +2,13 @@
 ---
 
 **Tables** are like Google Sheets - but enhanced for Counter-Strike strategy management.  
-They allow your team to organize, plan, and quickly access strategies in a familiar tabular format.  
+
+Tables are used by teams to get a quick overview of their entire playbook. Often they keep them open in a
+normal browser or even the Steam browser, and alt-tab while practicing or playing matches.
+This allows them to see all the strats they're using on the current map. If they need to review a specific strat,
+they can easily open it directly from the Tables page.
+If they need to repeat a nade within that strat, they can do so quickly,
+then return to their Tables in just 2 clicks.
 
 ## Navigating Tables
 - On the **left side**, use the dropdown to select which table you want to work on.  
