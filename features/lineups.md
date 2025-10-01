@@ -36,6 +36,8 @@ Available statuses:
 - **For Review** – awaiting approval from teammates or coaches.  
 - **Archived** – no longer in use.  
 
+Learn more about statuses [here](../getting-started/statuses.md).
+
 ### Motion
 The in-game movement used to throw the nade:
 - Standing  

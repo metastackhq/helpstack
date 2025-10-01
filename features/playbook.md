@@ -38,6 +38,8 @@ Available statuses:
 - **For Review** – awaiting approval from teammates or coaches.  
 - **Archived** – no longer in use.  
 
+Learn more about statuses [here](../getting-started/statuses.md).
+
 ### Strat Description 
 A detailed explanation of how the strategy works.  
 

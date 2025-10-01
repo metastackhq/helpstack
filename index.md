@@ -11,6 +11,7 @@ Whether you are a casual player or part of a professional team, this Help Center
 - [Creating an Account](./getting-started/account.md)
 - [Navigating the Homepage](./getting-started/home.md)
 - [Team vs. Personal Workspaces](./getting-started/workspaces.md)
+- [How Statuses Work](./getting-started/statuses.md)
 - [Collaborative Content Edit](./getting-started/collaborative-content-edit.md)
 
 ## Core Features
