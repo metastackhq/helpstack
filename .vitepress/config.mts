@@ -65,6 +65,13 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Changelog',
+        collapsible: true,
+        items: [
+          { text: 'Update Notes', link: '/features/updates' },
+        ]
+      },
+      {
         text: 'FAQs & Troubleshooting',
         collapsible: true,
         items: [

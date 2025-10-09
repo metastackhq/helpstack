@@ -37,6 +37,9 @@ Whether you are a casual player or part of a professional team, this Help Center
 - [Submissions](./metastack/submissions.md)
 - [Metapoints](./metastack/metapoints.md)
 
+## Changelog
+- [Update Notes](./features/updates.md)
+
 ## FAQs & Troubleshooting
 - [Common Issues](https://discord.gg/metastack)
 - [Contact Support](https://discord.gg/metastack)
