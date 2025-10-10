@@ -1,10 +1,24 @@
 :root {
   --vp-home-hero-name-color: #46aef7;
+  --vp-c-brand-1: #46aef7;
+  --vp-sidebar-bg-color: #0f0f0f;
+  --vp-c-bg: #131313; /* page background */
+  --vp-c-text-1: #f1f1f1; /* main text color */
+  --vp-c-text-2: #aaaaaa; /* secondary text (like sidebar items) */
+}
+
+.VPImage {
+  height: 28px !important;
+}
+
+.button-container {
+  display: flex;
+  gap: 32px;
 }
 
 .metastack-button {
   display: inline-block;
-  background-color: #3bb3ff; /* your light blue */
+  background-color: #3bb3ff;
   color: #fff;
   font-weight: 600;
   padding: 8px 20px;
@@ -15,5 +29,28 @@
 }
 
 .metastack-button:hover {
-  background-color: #1a9be0; /* darker blue on hover */
+  background-color: #4bc2f7;
+}
+
+.metastack-button:active {
+  background-color: #3c9ff7;
+}
+
+.metastack-button-outline {
+  border: 1px solid #46aef7;
+  border-radius: 8px;
+  padding: 8px 20px;
+  background-color: transparent;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+}
+
+.metastack-button-outline:hover {
+  background-color: rgba(70, 174, 247, 0.55);
+}
+
+.metastack-button-outline:active {
+  background-color: rgba(90, 194, 247, 0.55);
 }
