@@ -23,6 +23,7 @@ export default defineConfig({
           { text: 'Team vs. Personal Workspaces', link: '/getting-started/workspaces' },
           { text: 'How Statuses Work', link: '/getting-started/statuses' },
 	  { text: 'Collaborative Content Edit', link: '/getting-started/collaborative-content-edit'},
+	  { text: 'Referral Program', link: '/getting-started/referral-program'},
         ]
       },
       {
