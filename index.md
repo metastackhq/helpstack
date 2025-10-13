@@ -13,6 +13,7 @@ Whether you are a casual player or part of a professional team, this Help Center
 - [Team vs. Personal Workspaces](./getting-started/workspaces.md)
 - [How Statuses Work](./getting-started/statuses.md)
 - [Collaborative Content Edit](./getting-started/collaborative-content-edit.md)
+- [Referral Program](./getting-started/referral-program.md)
 
 ## Core Features
 - [Lineups](./features/lineups.md)
