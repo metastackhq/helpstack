@@ -1,10 +1,45 @@
 :root {
   --vp-home-hero-name-color: #46aef7;
   --vp-c-brand-1: #46aef7;
+  --vp-c-brand-2: #3c9ff7;
   --vp-sidebar-bg-color: #0f0f0f;
   --vp-c-bg: #131313; /* page background */
   --vp-c-text-1: #f1f1f1; /* main text color */
   --vp-c-text-2: #aaaaaa; /* secondary text (like sidebar items) */
+}
+
+.VPNav {
+  height: 80px !important;
+}
+
+.VPNavBar {
+  height: 80px !important;
+}
+
+.VPNavBar .content {
+  height: 80px !important;
+  align-items: center;
+}
+
+.VPNavBar .content .content-body {
+  height: 80px !important;
+  align-items: center;
+}
+
+.VPNavBar .divider .divider-line {
+  margin-top: 16px;
+}
+
+.VPNavBarTitle .title {
+  height: 81px;
+}
+
+.VPSidebar {
+  padding-top: 80px !important;
+}
+
+.VPLocalNav .container {
+  margin-top: 16px;
 }
 
 .VPImage {
@@ -24,7 +59,7 @@
   padding: 8px 20px;
   border-radius: 8px;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 15px;
   transition: background-color 0.2s ease;
 }
 
@@ -41,7 +76,7 @@
   border-radius: 8px;
   padding: 8px 20px;
   background-color: transparent;
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 600;
   color: #fff;
   cursor: pointer;
