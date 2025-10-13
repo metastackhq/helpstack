@@ -1,7 +1,7 @@
 :root {
   --vp-home-hero-name-color: #46aef7;
   --vp-c-brand-1: #46aef7;
-  --vp-c-brand-2: #3c9ff7;
+  --vp-c-brand-2: #0974d1;
   --vp-sidebar-bg-color: #0f0f0f;
   --vp-c-bg: #131313; /* page background */
   --vp-c-text-1: #f1f1f1; /* main text color */
@@ -32,6 +32,7 @@
 
 .VPNavBarTitle .title {
   height: 81px;
+  background-color: #0f0f0f;
 }
 
 .VPSidebar {
