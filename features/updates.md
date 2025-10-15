@@ -1,4 +1,16 @@
 # Update Notes
+
+## October 15th, 2025
+### Referral Program `New`
+* Implemented Profile Picture Dropdown with Referral Giveaway option
+* When you refer a friend, both you and the referred friend will earn 200 Metapoints
+
+### Home Page
+* Updated the Home page with tutorial cards to help you get started faster.
+
+### User Settings
+* Created Refer a Friend page in User Settings
+
 ## October 10th, 2025
 ### Lineups `New`
 * Added automatic image slideshow on hover for Lineups - just like YouTube thumbnails!
