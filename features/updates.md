@@ -1,5 +1,24 @@
 # Update Notes
 
+## October 23th, 2025
+### Callouts
+* Added ability to select multiple Callout types
+* Selected callout now displayed in front of others for enhanced visibility
+
+### Lineups
+* Maintains last active view when switching between personal/team's and Metastack
+
+### Playbook
+* Maintains last active view when switching between personal/team's and Metastack
+
+### Keywords
+* Maintains last active view when switching between personal/team's and Metastack
+
+### Bug Fixes
+* Profiles are now publicly available
+* Youtube URLs now support video start time
+* Links now navigate to help center
+
 ## October 15th, 2025
 ### Referral Program `New`
 * Implemented Profile Picture Dropdown with Referral Giveaway option
