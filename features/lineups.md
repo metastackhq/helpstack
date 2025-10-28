@@ -100,9 +100,9 @@ Upload images that illustrate:
 The **Callout** on the map where the nade lands.  
 You can specify multiple destinations if needed.
 
-### Position
+### Throw Position
 The **Callout** on the map where the nade is thrown from.  
-Multiple positions can be defined.
+Multiple throw positions can be defined.
 
 ### Video Link
 Provide a URL to a video demonstrating the nade, ensuring 100% clarity on how it is executed.  
