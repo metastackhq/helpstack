@@ -1,6 +1,10 @@
 # Update Notes
 
-## October 23th, 2025
+## October 29th, 2025
+### Strat Create Page
+* Changed "Demo Link" to "Match Link" to remove ambiguity
+
+## October 23rd, 2025
 ### Callouts
 * Added ability to select multiple Callout types
 * Selected callout now displayed in front of others for enhanced visibility
