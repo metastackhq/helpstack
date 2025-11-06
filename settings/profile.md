@@ -9,9 +9,9 @@ It is where other players can find your information, connect with you, and explo
 On the profile page you can see:
 
 - **Name** – your chosen name visible across the platform.  
-- **Profile URL** – a unique URL assigned to your profile, helping others find you easily.  
+- **Username** – a unique username assigned to your profile, helping others find you easily.
    :::info
-   Profile URL is an easy way for others to find your profile on Metastack. Profile URLs are unique and short identifiers, and they start with the "@" symbol.
+   Username is an easy way for others to find your profile on Metastack. Usernames are unique and short identifiers, and they start with the "@" symbol.
 
    **For example**: @feed
    :::

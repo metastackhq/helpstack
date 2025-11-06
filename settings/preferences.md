@@ -6,7 +6,7 @@ In the **Profile Settings** you can customize and manage your personal details.
 ### Editable Information
 - **Profile Image** - upload or change your avatar.  
 - **Display Name** - update your visible name.  
-- **Profile URL** - customize your unique profile path.  
+- **Username** - customize your username.
 - **Email** - update your account email.  
 
 ### Profile Details
