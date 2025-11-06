@@ -16,6 +16,9 @@
 ### Profile Page
 * The **Metapoints link on the Profile Page** now correctly navigates to the **Leaderboard** instead of the "About" page.
 
+### Team Members Page
+* Emails are now replaced with usernames.
+
 ### User Settings
 * The **'Profile URL' field has been renamed to 'Username'** in User Settings.
 
