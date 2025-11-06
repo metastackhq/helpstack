@@ -1,5 +1,33 @@
 # Update Notes
 
+## November 6th, 2025
+
+### Metapoints Leaderboard
+* Launched Metapoints Leaderboard System with **valuable prizes**.
+* Leaderboard display is now **fully responsive** across all devices.
+
+### Submissions
+* The **Demo and Round fields are now mandatory** when submitting a Strat.
+
+### Navigation
+* **User Profile Dropdown** has been significantly improved in appearance and functionality.
+* Added Metapoints dropdown option to easily navigate to the Leaderboard.
+
+### Profile Page
+* The **Metapoints link on the Profile Page** now correctly navigates to the **Leaderboard** instead of the "About" page.
+
+### User Settings
+* The **'Profile URL' field has been renamed to 'Username'** in User Settings.
+
+### Lineups
+* Added a **tooltip for image descriptions** to improve visibility.
+* Added a new grenade throw: **W + Left + Right Click Jump Throw**.
+* Fixed a critical issue where **image descriptions were not saving correctly on mobile devices.**
+* Improved **mobile design for Combo Nades** to prevent words from breaking incorrectly.
+
+### Strat Edit Page
+* Fixed role drag bug when cursor is over the YouTube video box.
+
 ## October 29th, 2025
 ### Strat Create Page
 * Changed "Demo Link" to "Match Link" to remove ambiguity
