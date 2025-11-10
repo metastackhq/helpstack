@@ -1,7 +1,18 @@
 # Update Notes
 
-## November 6th, 2025
+## November 10th, 2025
+### Nades
+* Fixed an image dragging bug on mobile.
+* Fixed a bug where image descriptions weren't saved properly on mobile.
+* Fixed several minor visual bugs on smaller resolutions and on mobile.
 
+### Strats
+* Fixed a bug where the slash command menu would behave incorrectly after deleting the "/" char.
+
+### Metapoints
+* Minor visual improvements.
+
+## November 6th, 2025
 ### Metapoints Leaderboard
 * Launched Metapoints Leaderboard System with **valuable prizes**.
 * Leaderboard display is now **fully responsive** across all devices.
