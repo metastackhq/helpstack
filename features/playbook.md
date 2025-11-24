@@ -11,12 +11,12 @@ Each strat contains a rich set of details to make it as descriptive and reusable
 Select one of the maps from the **Active Duty pool**.
 
 ### Side
-Choose the side where the nade is usually used:
+Choose the side where the strat is usually used:
 - **Counter-Terrorist**  
 - **Terrorist**
 
 ### Type
-The type of nade:
+The type of strat:
 - Set Round
 - Play 
 - Opening 
