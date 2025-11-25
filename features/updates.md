@@ -1,5 +1,16 @@
 # Update Notes
 
+## November 25th, 2025
+### Onboarding
+* Added new onboarding tutorials for managing team roles, importing items from Metastack Library, editing Callouts and Tables.
+
+### Metapoints Leaderboard
+* Minor design changes.
+
+### Callouts
+* Minor bug fixes.
+* Fixed scrolling of the Leaderboard on iOS devices
+
 ## November 10th, 2025
 ### Nades
 * Fixed an image dragging bug on mobile.
