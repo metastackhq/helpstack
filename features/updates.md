@@ -1,5 +1,18 @@
 # Update Notes
 
+## December 5th, 2025
+### Teams
+* You can now invite other members to your personal teams too.
+* Added the Invite Members hover option to the Team button in the sidebar.
+
+### Bug fixes
+* Fixed a bug when switching teams that caused the switch to not occur sometimes.
+
+### Other
+* Change the color of the Budapest Major tag to yellow to match major’s color scheme.
+* Home page minor design fixes on the mobile version.
+* Added an outline when dragging the screenshots on the Nade Edit page on both desktop and mobile versions.
+
 ## November 25th, 2025
 ### Onboarding
 * Added new onboarding tutorials for managing team roles, importing items from Metastack Library, editing Callouts and Tables.
