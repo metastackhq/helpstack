@@ -1,5 +1,14 @@
 # Update Notes
 
+## December 10th, 2025
+### Nades
+* Added a new value for the Throw property: `W + Right Click Jump Throw`
+
+### Other
+* Updated user display name max lenght to 32 chars.
+* Updated team display name max lenght to 40 chars.
+* Fixed a minor bug with scroll preservation on the Playbook, Lineups and Keywords pages.
+
 ## December 5th, 2025
 ### Teams
 * You can now invite other members to your personal teams too.
