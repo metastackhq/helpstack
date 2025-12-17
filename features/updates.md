@@ -1,5 +1,15 @@
 # Update Notes
 
+## December 17th, 2025
+### Playbook
+* Added a new **Players** filter, allowing for easier discovery of strategies based on the required number of participants.
+
+### Settings
+* Integrated Team Settings into the User Settings menu to simplify administrative tasks.
+
+### Callouts
+* Added zoom controls to help distinguish between multiple overlapping or adjacent callouts.
+
 ## December 10th, 2025
 ### Nades
 * Added a new value for the Throw property: `W + Right Click Jump Throw`
