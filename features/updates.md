@@ -1,5 +1,26 @@
 # Update Notes
 
+## January 21st, 2026
+### Teams
+* Personal teams have been reintroduced and restored to how they worked previously. You can no longer invite other teammates in your personal team.
+* Other members inside personal teams have been removed, as they are once again limited to owner only.
+
+### Notifications `New`
+* Added a new Notifications feature.
+* You can now receive important updates faster and more easily.
+
+### UI
+* Updated the header design with the notification icon.
+* Moved the team switch button to the Profile Picture dropdown, which now has a updated design.
+
+### Callouts
+* Fixed a bug where linked Callouts weren’t opened properly.
+* Fixed minor visual bugs with Callout bubbles on Callouts maps.
+
+### Other
+* Fixed a minor bugs with text in browser tab titles.
+* Several minor performance updates.
+
 ## December 17th, 2025
 ### Playbook
 * Added a new **Players** filter, allowing for easier discovery of strategies based on the required number of participants.
