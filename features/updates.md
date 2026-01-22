@@ -1,5 +1,16 @@
 # Update Notes
 
+## January 22nd, 2026
+### Strats
+* Added a 2x Flash option to the slash command. You can now add the same flash twice in an easier way.
+
+### Callouts
+* Fixed a bug where Callouts could be moved on the map outside of the edit mode.
+
+### Notifications
+* Links in notifications can now be opened in a new tab.
+* Updated how notifications are grouped and marked as read.
+
 ## January 21st, 2026
 ### Teams
 * Personal teams have been reintroduced and restored to how they worked previously. You can no longer invite other teammates in your personal team.
