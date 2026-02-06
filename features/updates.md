@@ -1,5 +1,18 @@
 # Update Notes
 
+## February 6th, 2026
+### Cookie Banner
+* Updated the Cookie Banner with a new cleaner look UI.
+
+### Tables
+* Fixed an issue where navigating through tables could occasionally result in an infinite loading.
+
+### Bug fixes
+* Resolved application crash bug related to mentions.
+
+### Other
+* Several minor performance and UI/UX updates.
+
 ## January 22nd, 2026
 ### Strats
 * Added a 2x Flash option to the slash command. You can now add the same flash twice in an easier way.
