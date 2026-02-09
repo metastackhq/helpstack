@@ -1,6 +1,6 @@
 # Update Notes
 
-## Febrary 9th, 2026
+## February 9th, 2026
 ### Notifications
 * Added icons to notifications and updated their design.
 * Fixed a bug where team wasn’t automatically switched if needed when a notification link has been opened.
