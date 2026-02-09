@@ -1,5 +1,19 @@
 # Update Notes
 
+## Febrary 9th, 2026
+### Notifications
+* Added icons to notifications and updated their design.
+* Fixed a bug where team wasn’t automatically switched if needed when a notification link has been opened.
+
+### Strats
+* Fixed a bug where approprate fields weren’t cleared when Map or Side was changed while editing Strats.
+
+### Nades
+* Changing the Map while editing a Nade now also clears it’s Coordinates field.
+
+### Other
+* Minor bug fixes.
+
 ## February 6th, 2026
 ### Cookie Banner
 * Updated the Cookie Banner with a new cleaner look UI.
