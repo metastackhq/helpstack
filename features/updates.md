@@ -1,5 +1,12 @@
 # Update Notes
 
+## February 13th, 2026
+### Slash Command
+* Significantly improved the design and responsiveness of the slash command dropdown menu (menu shown after pressing '/' while typing)
+* Additional functionality implemented to the slash command:
+    * You can now go back to the main menu by clicking on the back arrow button, or by pressing the escape key
+    * You can now access the quick create feature even when 0 chars are typed
+
 ## February 9th, 2026
 ### Notifications
 * Added icons to notifications and updated their design.
