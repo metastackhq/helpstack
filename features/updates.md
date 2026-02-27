@@ -1,5 +1,11 @@
 # Update Notes
 
+## February 27th, 2026
+### Strats `New`
+* Added the possibility to upload images to Strats.
+* Added the ability to create custom thumbnails for your Strats on the Playbook page:<br>The leftmost image will serve as the thumbnail.
+* Fixed a bug where slash command submenus would close unintentionally when typing very fast.
+
 ## February 13th, 2026
 ### Slash Command
 * Significantly improved the design and responsiveness of the slash command dropdown menu (menu shown after pressing '/' while typing)
