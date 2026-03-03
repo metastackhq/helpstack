@@ -1,5 +1,13 @@
 # Update Notes
 
+## March 3rd, 2026
+### Nades
+* Updated the order of options in the Throw property menu on the Nade Edit page (thanks Siko!)
+
+### Other
+* Updated the text contents for various info popovers.
+* Minor text fixes on the mobile version.
+
 ## February 27th, 2026
 ### Strats `New`
 * Added the possibility to upload images to Strats.
