@@ -1,5 +1,47 @@
 # Update Notes
 
+## July 8th, 2026
+### Strats, Nades, Keywords `New`
+- Added the Quick Rename feature to Playbook, Lineups, and Keywords pages. It enables fast renaming, even without opening the Strat/Nade/Keywords pages.
+- Added the Quick Status Change feature to Playbook, Lineups, and Keywords pages. It enables fast renaming, even without opening the Strat/Nade/Keywords pages.
+- Added the ability to import any Strat, Nade, and Keyword from the Metastack Content Library into any team you're currently a member of. This lets you quickly import content you like into multiple teams, even without switching to them.
+
+### Maps `New`
+- Added Cache along with 100+ Nades in the Metastack Lineups. Overpass will also stay on the platform for the time being.
+
+### Callouts `New`
+- Added the display of Linked Nades to selected Callout details on the Callouts page. Now you can see all the Nades that have the selected Callout linked as their Destination.
+- Updated the Callouts map images for all maps to the latest versions
+
+### Tables `New`
+- Added the ability to color the table cells to match their Status. This setting can be toggle on or off the more options menu on the Tables page.
+- Added Status colored circles to Table cell popups
+
+### Slash Command
+- Drastically improved the speed and responsiveness of the Slash Command dropdown menu. Items will now appear immediately, without a loading time, as the Slash Command is triggered.
+
+### Nades
+- Added the ability to drag and drop images images onto the uploader, in addition to using the file picker
+
+### Bug fixes
+- Removed Role name indexing when searching for Strats on the Playbook page
+- YouTube videos now play correctly in Safari
+- Fixed a minor bug where with the header on edit pages
+- Fixed scrolling inside the Steam browser, so videos will no longer get stuck when scrolling
+- Fixed an issue when changing a player's rank
+- Fixed several issues with onboarding popups
+
+### Security & performance
+- Implemented drastic security updates to the platform’s infrastructure
+- Implemented significant performance updates. Pages across the entire platform should load much faster, especially for users in remote regions of the world.
+
+### Misc
+- Added the display of the Top Creator badges to the Metapoints leaderboard, in addition to user Profile pages
+- Implemented minor updates to the landing page
+- Multiple visual improvements and bug fixes
+- Added the “View in Browser” link to all Metastack system emails. So even if you’re using a niche email client, you’ll be able to open any email in a browser, in case some elements in the email aren’t loaded properly inside the client itself.
+
+
 ## March 3rd, 2026
 ### Nades
 * Updated the order of options in the Throw property menu on the Nade Edit page (thanks Siko!)
