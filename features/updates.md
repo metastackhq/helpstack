@@ -1,5 +1,27 @@
 # Update Notes
 
+## July 20th, 2026
+### Global Search `New`
+- Added Global Search feature that lets you search across both your Team and the Metastack Content Library for any Nades, Strats, and Keywords
+
+### Lineups, Playbook, Keywords
+- Added a new Popular filter that sorts Nades, Strats, or Keywords by their all time popularity
+- Added a new Trending filter that sorts Nades, Strats, or Keywords by their recent recent popularity
+
+### Callouts
+- The entire Callouts page can now be opened even without logging in to Metastack. Send it do your teammate who’s favorite callout is “there to the left!”
+
+### Metapoints
+- The Metapoints leaderboard can now be opened even without logging in to Metastack. Top performers can now showcase their ranks easily on socials!
+
+### Bug fixes
+- Fixed a bug where using the Quick Rename or the Quick Status Change would delete all Roles
+- Fixed a bug that caused pasted linked objects to appear greyed out while editing a Strat
+
+### Other
+- Multiple minor visual fixes
+- Significant performance and loading times improvements
+
 ## July 8th, 2026
 ### Strats, Nades, Keywords `New`
 - Added the Quick Rename feature to Playbook, Lineups, and Keywords pages. It enables fast renaming, even without opening the Strat/Nade/Keywords pages.
