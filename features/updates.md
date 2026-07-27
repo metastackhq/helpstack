@@ -1,5 +1,22 @@
 # Update Notes
 
+## July 27th, 2026
+### Lineups, Playbook, Keywords
+- Lineups, Playbook, Keywords switch look was updated to a tab menu design
+
+### Global Search
+- Typing in a map name will now narrow down the search results only to that map
+- Improved the accuracy of the search when looking for similarly named objects
+
+### Minor visual improvements
+- Several smaller bug fixes
+
+### Strats
+- Fixed a bug that caused some objects links to be broken
+
+### Other
+- Minor design fixes
+
 ## July 20th, 2026
 ### Global Search `New`
 - Added Global Search feature that lets you search across both your Team and the Metastack Content Library for any Nades, Strats, and Keywords

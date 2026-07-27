@@ -130,8 +130,8 @@ Your nade will now appear inside your personal or team lineup collection, depend
 
 Instead of creating everything from scratch, you can import nades from the **Metastack Content Library**:
 
-1. When inside **Lineups**, locate the **dropdown** in the main content area.  
-2. Switch from **[Your/Team's] Lineups** to **Metastack Lineups**.  
+1. When inside **Lineups**, locate the **tabs** in the main content area.
+2. Switch from the **[Your/Team's] Lineups** tab to the **Metastack Lineups** tab.
 3. Browse available nade setups provided by Metastack.  
 4. Import and start personalizing!
 
@@ -146,5 +146,5 @@ All imported nades can be adapted to your team’s needs:
 
 - Lineups are collections of nade setups.  
 - You can create your own or import from the **Metastack Lineups**.  
-- Switching between **[Your/Team's] Lineups** and **Metastack Lineups** is done via the **dropdown** in the main content area.  
+- Switching between **[Your/Team's] Lineups** and **Metastack Lineups** is done via the **tabs** in the main content area.
 - Imported nades can be fully personalized to match your team’s language and style. 

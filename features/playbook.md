@@ -92,8 +92,8 @@ This makes it easy to reuse, adapt, and reference strategies across the team’s
 
 Instead of creating everything from scratch, you can import strats from the **Metastack Content Playbook**:
 
-1. When inside **Playbook**, locate the **dropdown** in the main content area.  
-2. Switch from **[Your/Team's] Playbook** to **Metastack Playbook**.  
+1. When inside **Playbook**, locate the **tabs** in the main content area.
+2. Switch from the **[Your/Team's] Playbook** tab to the **Metastack Playbook** tab.
 3. Browse available strats provided by Metastack.  
 4. Import and start personalizing!
 
@@ -107,5 +107,5 @@ All imported strategies can be adapted to your team’s needs:
 
 - Playbook is coolection of strats.
 - You can create your own or import from the **Metastack Playbook**.  
-- Switching between **[Your/Team's] Playbook** and **Metastack Playbook** is done via the **dropdown** in the main content area.  
+- Switching between **[Your/Team's] Playbook** and **Metastack Playbook** is done via the **tabs** in the main content area.
 - Imported strats can be fully personalized to match your team’s language and style. 
