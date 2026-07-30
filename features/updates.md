@@ -1,5 +1,20 @@
 # Update Notes
 
+## July 30th, 2026
+### Lineups, Playbook, Keywords
+- Removed “Nades”, “Strats”, “Keywords” suffixes from the tab menu
+- Added links to the Metastack Content Library to No Results pages
+- Improved the design of team Lineups, Playbook, Keywords pages when they have no content on them
+
+### Callouts
+- Fixed a bug with Linked Nades where imported Nades weren’t behaving properly
+- Callouts search bar minor visual fix regarding the search icon
+- Added scroll to zoom functionality to screenshots on the Callouts page to match the behavior of the screenshots on Nade pages
+
+### Other
+- Minor visual fixes
+- General stability improvements
+
 ## July 27th, 2026
 ### Lineups, Playbook, Keywords
 - Lineups, Playbook, Keywords switch look was updated to a tab menu design
