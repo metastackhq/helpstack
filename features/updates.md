@@ -1,3 +1,7 @@
+---
+pageClass: update-notes
+---
+
 # Update Notes
 
 ## July 30th, 2026

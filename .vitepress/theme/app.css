@@ -47,6 +47,57 @@
   height: 28px !important;
 }
 
+/* Update Notes: give each release date a clear break so days are easy to
+   tell apart while scrolling. Default vp-doc spacing is 72px above a date
+   vs 32px above a section, which reads as almost the same gap.
+   The divider sits close under the previous release to close it off, and
+   the open space goes below the divider as headroom for the new date. */
+.update-notes .vp-doc h2 {
+  margin-top: 32px;
+  padding-top: 96px;
+  border-top: 2px solid var(--vp-c-divider);
+}
+
+.update-notes .vp-doc h2 .header-anchor {
+  top: 96px;
+}
+
+/* The first release opens the page, so it needs no full-size break. */
+.update-notes .vp-doc h1 + h2 {
+  margin-top: 24px;
+  padding-top: 40px;
+}
+
+.update-notes .vp-doc h1 + h2 .header-anchor {
+  top: 40px;
+}
+
+/* Slightly tighter rhythm between sections inside one release, so the
+   day boundary is the dominant gap on the page. */
+.update-notes .vp-doc h3 {
+  margin-top: 28px;
+}
+
+@media (max-width: 640px) {
+  .update-notes .vp-doc h2 {
+    margin-top: 24px;
+    padding-top: 64px;
+  }
+
+  .update-notes .vp-doc h2 .header-anchor {
+    top: 64px;
+  }
+
+  .update-notes .vp-doc h1 + h2 {
+    margin-top: 16px;
+    padding-top: 32px;
+  }
+
+  .update-notes .vp-doc h1 + h2 .header-anchor {
+    top: 32px;
+  }
+}
+
 .button-container {
   display: flex;
   gap: 32px;
