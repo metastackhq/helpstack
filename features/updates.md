@@ -4,6 +4,14 @@ pageClass: update-notes
 
 # Update Notes
 
+## September 5th, 2026
+### Bug fixes
+- Fixed crashes caused by Youtube and Adblocker related browser extensions
+- Fixed a minor bug on the Edit Callouts page
+
+### Other
+- Several stability fixes and performance updates
+
 ## July 30th, 2026
 ### Lineups, Playbook, Keywords
 - Removed “Nades”, “Strats”, “Keywords” suffixes from the tab menu
