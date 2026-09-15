@@ -4,6 +4,19 @@ pageClass: update-notes
 
 # Update Notes
 
+## September 15th, 2026
+### Global Search
+- Typing in a Nade Type name or a side (T side, CT side) will now narrow down the search results to match it. For example, "A site smoke" now shows just the smokes.
+
+### Bug fixes
+- Filters that come with a link someone shared with you on Playbook, Lineups, and Keywords page, now stay applied after you leave the page and come back. This also works on Tables, Roles and Callouts pages too.
+- Fixed a bug on with the Map menu bar on the Tables page and the Manage Roles page on smaller resolutions
+- Logging in from a shared Nade, Strat, Keyword, Callouts or Metapoints page now brings you back to that page instead of the homepage
+- Fixed a minor bug that on the Mobile version in Safari
+
+### Other
+- General stability improvements
+
 ## September 5th, 2026
 ### Bug fixes
 - Fixed crashes caused by Youtube and Adblocker related browser extensions
