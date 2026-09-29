@@ -35,6 +35,7 @@ Whether you are a casual player or part of a professional team, this Help Center
 ## Collaboration Tools
 - [Sharing](./metastack/sharing.md)
 - [Import](./metastack/import.md)
+- [Sharing Content Across Teams](./metastack/sharing-across-teams.md)
 - [Submissions](./metastack/submissions.md)
 - [Metapoints](./metastack/metapoints.md)
 

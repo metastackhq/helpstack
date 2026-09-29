@@ -60,6 +60,7 @@ export default defineConfig({
         collapsible: true,
         items: [
           { text: 'Sharing', link: '/metastack/sharing' },
+          { text: 'Sharing Content Across Teams', link: '/metastack/sharing-across-teams' },
           { text: 'Import', link: '/metastack/import' },
           { text: 'Submissions', link: '/metastack/submissions' },
           { text: 'Metapoints', link: '/metastack/metapoints' },
