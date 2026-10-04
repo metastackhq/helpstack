@@ -1,43 +1,34 @@
-# Sharing Content Across Teams
+# Copying and Moving
 ---
 
-**Move to** and **Copy to** let you send a **Strat, Nade, or Keyword** from one team to another team or to your personal space, without recreating it by hand.
+## When to Use
 
-## Move to or Copy to
+Use **Copy to** or **Move to** for transferring a **Strat, Nade, Combo, or Keyword** to another team or your personal space.
 
-- **Copy to** puts a copy in the destination and leaves the original where it is.
-- **Move to** puts the item in the destination and removes it from the team it came from.
+- **Copy to** leaves the original where it is and adds a copy to where you want it.
+- **Move to** permanently removes the object from its current team or personal space and puts it in the destination.
 
-Use **Copy to** when both teams should keep the item. Use **Move to** when the item belongs in the other team from now on.
+## How to Use
 
-## How to Use Them
-
-- Find the Strat, Nade, or Keyword you want to send, either in its list or on its own page
+- Find the Strat, Nade, Combo, or Keyword you want to transfer, either in its list or on its own page
 - Open the action menu and choose **Copy to** or **Move to**
 - Select the team, or your personal space, in the dropdown
 - Confirm
 
-The team the item is already in is left out of the dropdown, since copying there would only make a duplicate and moving there would change nothing. Teams where you are a **Viewer**, and teams that already have the item, still appear but are greyed out. Hover over one to see why.
+## "Move to" Warning
 
-**Copy to** and **Move to** only appear once you belong to more than one team where you are not a Viewer.
+When you **Move to** content from one place to another, your content will be moved into the destination team or personal space, and the original source content will be permanently deleted.
 
-## Combos
+In the process of moving content from one place to another, some things that rely on it may be broken, such as Combos that include a moved Nade. We recommend moving content only if you are absolutely sure you don't need it where it is right now.
 
-Copying or moving a **Combo** also copies the Nades inside it to the destination. The Nades stay in the original team.
+## Combos and Their Nades
 
-## Nades Linked in Combos
+When you copy or move a **Combo**, its Nades are copied to the destination. Those Nades remain in the original space, even when you move the Combo.
 
-When you **move** a Nade that is linked inside a Combo, it is removed from every Combo it was added to. Copying a Nade does not change the Combos in the original team.
+**Moving an individual Nade removes it from every Combo it belongs to in the original space.** Copying a Nade leaves those Combos unchanged.
 
-## Who Can Use Them
+## Permissions and Availability
 
-- You need permission to create content in your team.
-- **Move to** also needs permission to edit the item, because it removes the item from the original team.
-- **Owners and Admins** can always copy and move content out of their team.
-- **Members** can do so only while the team allows it. Owners and Admins turn this on or off in **Team Settings > Content**, under **Move and Copy**.
+**Copy to** and **Move to** appear only when you belong to more than one team where you are not a Viewer.
 
-## Copy to, Move to, and Import
-
-**Import** brings content from the Metastack library into your team. Learn more on the [Import](./import.md) page.
-
-**Copy to** and **Move to** work on content that already lives in a team, so they are not available for Metastack library content.
+To use these actions, you need permission for creating content. Moving an object also requires permission to edit it, because it removes the object from its original space.
