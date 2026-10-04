@@ -56,10 +56,18 @@ export default defineConfig({
         ]
       },
       {
+        text: 'Content Sharing',
+        collapsible: true,
+        items: [
+          { text: 'Within a Team', link: '/metastack/sharing' },
+          { text: 'Copying and Moving', link: '/metastack/sharing-across-teams' },
+          { text: 'Sharing Links', link: '/metastack/sharing-links' },
+        ]
+      },
+      {
         text: 'Metastack Content Library',
         collapsible: true,
         items: [
-          { text: 'Sharing', link: '/metastack/sharing' },
           { text: 'Import', link: '/metastack/import' },
           { text: 'Submissions', link: '/metastack/submissions' },
           { text: 'Metapoints', link: '/metastack/metapoints' },

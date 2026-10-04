@@ -1,38 +1,19 @@
-# Sharing
+# Within a Team
 ---
 
-Sharing is one of the most powerful features of Metastack.  
-It allows players and teams to **connect, collaborate, and understand each other**, no matter what language they speak or what team they belong to.
+Content in a team is visible to its members.
 
-## Sharing Inside Your Team
+## Who Can View and Edit Content?
 
-When you are in the **same team**, sharing is simple:  
-just share the entity you want – whether it’s a **Strat, a Nade, or a Keyword**.  
-Your teammates instantly see it in their workspace.
+Team rank determines what you can do:
 
-## Sharing Across Teams
+- **Owners, Admins, and Members** can create and edit content.
+- **Viewers** can view content but cannot create or edit it.
 
-When you are part of **different teams**, you can share **Metastack entities**.  
+See [Team Permissions](../team/permissions.md) for the full breakdown.
 
-- If someone shares a Metastack entity with you, you can open it and:  
-  - **View the original version** - Metastack's
-  - **See your own imported version** (if you have it imported)
+## Bringing Personal Content into a Team
 
-This system ensures that **everyone is referring to the same entity**, even if they customize it.
+If an object is in your personal space, use **Copy to** or **Move to** for bringing it into the team space.
 
-## Breaking the Language Barrier
-
-This approach makes sharing on Metastack uniquely powerful:  
-
-- One player can import a Metastack entity and **rewrite it in their native language**.  
-- Another player can import the same entity and do the same in a **completely different language**.  
-- Yet, both are looking at the **same entity**, the same tactical concept, the same meaning.
-
-Metastack becomes a **universal language for strategy and communication**.  
-Teams and players across the world can **share knowledge without friction**.
-
-## The Future of Sharing
-
-We are working on enabling **sharing from your personal team**.  
-This will let you easily share your personal strategies and ideas with others,  
-making collaboration even more natural and borderless.
+See [Copying and Moving](./sharing-across-teams.md) for instructions.

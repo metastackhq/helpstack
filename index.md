@@ -32,8 +32,12 @@ Whether you are a casual player or part of a professional team, this Help Center
 - [Profile](./settings/profile.md)
 - [Profile Settings](./settings/preferences.md)
 
+## Content Sharing
+- [Within a Team](./metastack/sharing.md)
+- [Copying and Moving](./metastack/sharing-across-teams.md)
+- [Sharing Links](./metastack/sharing-links.md)
+
 ## Collaboration Tools
-- [Sharing](./metastack/sharing.md)
 - [Import](./metastack/import.md)
 - [Submissions](./metastack/submissions.md)
 - [Metapoints](./metastack/metapoints.md)
