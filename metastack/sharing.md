@@ -14,6 +14,6 @@ See [Team Permissions](../team/permissions.md) for the full breakdown.
 
 ## Bringing Personal Content into a Team
 
-If an object is in your personal space, use **Copy to** or **Move to** for bringing it into the team space.
+If an object is in your personal space, use **Copy to** for bringing it into the team space.
 
-See [Copying and Moving](./sharing-across-teams.md) for instructions.
+See [Copying Across Teams](./sharing-across-teams.md) for instructions.

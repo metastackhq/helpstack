@@ -34,7 +34,7 @@ Whether you are a casual player or part of a professional team, this Help Center
 
 ## Content Sharing
 - [Within a Team](./metastack/sharing.md)
-- [Copying and Moving](./metastack/sharing-across-teams.md)
+- [Copying Across Teams](./metastack/sharing-across-teams.md)
 - [Sharing Links](./metastack/sharing-links.md)
 
 ## Collaboration Tools
