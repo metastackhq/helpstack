@@ -6,7 +6,7 @@ pageClass: update-notes
 
 ## October 20th, 2026
 ### Copy to `New`
-<iframe src="https://www.youtube-nocookie.com/embed/WYScwA-ndeo" title="Copy to" style="margin-top:16px;width:100%;aspect-ratio:16/9;border:0;border-radius:8px" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/WYScwA-ndeo" title="Copy to" style="margin-top:16px;width:100%;aspect-ratio:16/9;border:0;border-radius:8px" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Copying your Nades, Strats and Keywords between your teams or personal space is now possible
 - To access it click on the more options menu on Lineups/Playbook/Keywords page or on the menu in the top right corner on individual Nade/Strat/Keyword pages, and click on Copy to
