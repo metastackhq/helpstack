@@ -47,6 +47,27 @@
   height: 28px !important;
 }
 
+/* Section dividers sit close under the previous section and the open space
+   goes below the line, as headroom for the next heading. */
+.vp-doc h2 {
+  margin-top: 24px;
+  padding-top: 48px;
+}
+
+.vp-doc h2 .header-anchor {
+  top: 48px;
+}
+
+/* The title divider already separates the first section. */
+.vp-doc hr + h2 {
+  border-top: none;
+  padding-top: 0;
+}
+
+.vp-doc hr + h2 .header-anchor {
+  top: 0;
+}
+
 /* Update Notes: give each release date a clear break so days are easy to
    tell apart while scrolling. Default vp-doc spacing is 72px above a date
    vs 32px above a section, which reads as almost the same gap.
