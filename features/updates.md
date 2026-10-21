@@ -4,6 +4,45 @@ pageClass: update-notes
 
 # Update Notes
 
+## October 20th, 2026
+### Copy to `New`
+<iframe src="https://www.youtube-nocookie.com/embed/WYScwA-ndeo" title="Copy to" style="margin-top:16px;width:100%;aspect-ratio:16/9;border:0;border-radius:8px" allowfullscreen></iframe>
+
+- Copying your Nades, Strats and Keywords between your teams or personal space is now possible
+- To access it click on the more options menu on Lineups/Playbook/Keywords page or on the menu in the top right corner on individual Nade/Strat/Keyword pages, and click on Copy to
+
+### Importing content
+- Added the possibility to select up to 5 teams at the same time when importing content, so if you have multiple teams you won't have to do it one team at a time
+- Status selection was removed from Import modals. Imported content will have the Active status by default
+
+### Duplicate
+- Changed how Duplicate feature works: duplicated content will automatically get a suffix number at the end of its name and duplicate modal has been removed
+
+### Global Search
+- Added a small improvement to global search: typing the word "and" or "&" symbol will now behave identically and show you the same results. For example, "highway and catwalk" now finds "Highway & Catwalk".
+- Searching for a Nade that's inside one or more Combos will also include that Combo in the search results
+
+### Team switching
+- Added a quick "Switching to..." screen when you're switching to another team or to your personal space. This will provide you clearer feedback regarding which team you're switching to
+
+### Settings
+- "User Settings" is now called "Settings", and its first tab is called "Account"
+- Updated the wording in the invite link section
+
+### Bug fixes
+- Renaming a Combo or changing its Status from the Lineups page no longer removes its linked Nades
+- Saving a Nade from its Edit page no longer changes its Status to Active
+- Fixed the "name already exists" warning that showed up for names that weren't taken
+- Opening a shared link to the Playbook/Lineups/Keywords page with some selected filters now shows that link's filters properly, even after leaving the page and coming back later to it
+- Switching between T side and CT side on the Roles page no longer clears the Type filter
+- Minor bug fixes to the /slash command
+- Deleting a team from the email confirmation link now takes you to your personal space properly
+- Fixed a bug on mobile that occasionally blocked page scrolling after opening up the More menu in the bottom navigation bar
+- Team Owner Change email now displays properly on the mobile version
+- Minor bug fix on the Tables page that caused the map menu bar to behave incorrectly in the Firefox browser
+- Minor visual fixes on tablet sized screens
+- General stability improvements
+
 ## September 15th, 2026
 ### Global Search
 - Typing in a Nade Type name or a side (T side, CT side) will now narrow down the search results to match it. For example, "A site smoke" now shows just the smokes.
