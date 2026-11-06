@@ -4,6 +4,37 @@ pageClass: update-notes
 
 # Update Notes
 
+## November 3rd, 2026
+### Bulk select `New`
+- Added the possibility to select multiple Nades, Strats, or Keywords at once on the Lineups, Playbook and Keywords pages, and to perform actions in bulk on them
+
+### Inactive duty maps `New`
+- Added a new “Map Pool” setting inside Team Settings > Content section, that allows you to enable Inactive duty maps across the entire platform (example: Overpass, Train)
+- All content previously created both inside user teams and inside Metastack Content Library is fully available once Inactive duty maps are toggle on inside the settings
+
+### Lineups
+- Nade Throw and Motion properties will now be shown when hovering your mouse over the Nade thumbnails on the Lineups page
+
+### Global search
+- Fixed a bug that caused incorrect results when searching for Combos or Nades inside Combos
+
+### Slash command
+- Fixed a bug with the /decoy command that caused inaccurate results to be shown
+- Significant performance improvements
+
+### Competitive level setting `New`
+- Added the possibility to change the Competitive level you selected during account creation inside setting
+
+### Login page
+- Updated the design of the login page
+
+### Other
+- Selections made in multi-select fields now appear in the order they’re selected in
+- Thumbnail images will now be shown when sending Metastack links inside chat apps (WhatsApp, Discord, etc.), and on social media (X, Reddit, etc.)
+- Multiple minor bug fixes
+- Minor visual and design improvements
+- Stability improvements
+
 ## October 20th, 2026
 ### Copy to `New`
 <iframe src="https://www.youtube-nocookie.com/embed/WYScwA-ndeo" title="Copy to" style="margin-top:16px;width:100%;aspect-ratio:16/9;border:0;border-radius:8px" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
