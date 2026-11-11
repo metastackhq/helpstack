@@ -9,7 +9,7 @@ Each strat contains a rich set of details to make it as descriptive and reusable
 
 ### Map
 Select the map the strat is played on. The list shows the **Active Duty pool** by default.  
-To use inactive duty maps as well (e.g., Overpass, Train), turn on **Enable inactive duty maps** in **Settings > Content**.
+To use inactive duty maps as well (e.g., Overpass, Train), turn on **Enable inactive duty maps** in **Settings → Content**.
 
 ### Side
 Choose the side where the strat is usually used:
