@@ -20,6 +20,7 @@ On the **left side** of the Callouts page, you can filter callouts using:
 - A map is displayed with **bubbles** representing callouts.  
 - Each bubble shows the callout’s name and position.  
 - Use the **search bar** in the top-right corner to quickly find a specific callout.  
+- Select a callout to see its details, together with the **Nades** that land in it. Your own nades are listed first, followed by Metastack nades.  
 
 ## Editing Callouts
 To make changes, click **Edit**. Then you can:  
@@ -30,13 +31,14 @@ To make changes, click **Edit**. Then you can:
 
 ### System Callouts
 - Name and visibility can be changed.  
-- Position and type cannot be modified.  
+- Position, type, and level cannot be modified.  
 
 ### Custom Callouts
 When creating a new callout, you can define:  
 - **Name** – descriptive label.  
 - **Visibility** – visible or hidden.  
 - **Type** – Spot, Zone, Angle, or Plant.  
+- **Level** - Upper, Lower, or Both Levels. Shown on maps with more than one vertical level (Nuke and Vertigo).  
 - **Image** – optional image to better describe the callout.  
 
 ## Summary

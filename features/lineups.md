@@ -80,6 +80,10 @@ Additional properties and details for better categorization:
 - Through Smoke  
 - Combo Only  
 
+### Travel Time
+Available for **Smokes**. The time the smoke spends travelling after being thrown, before it blooms.  
+Enter the number of seconds between 1 and 20, with one decimal place (e.g., `6.3`).
+
 ### Coordinates
 Precise map and crosshair placement for practice.  
 Entering the provided command in the developer console will teleport you to the exact position with your crosshair aligned.  
@@ -126,6 +130,22 @@ Filling other fields would make searching and filtering through lineups easier.
 
 Your nade will now appear inside your personal or team lineup collection, depending on the active workspace.
 
+## Combos
+
+A **Combo** groups several nades that belong together, so you can save and open them as one item.
+
+To create a Combo:
+1. Click **+ Create** button in the top-right corner and select **New Nade**.  
+2. Select the **Map** and **Side**, and set **Type** to **Combo**.  
+3. Give it a **Name**.  
+4. Click **Add Nade** and pick a nade. Repeat for every nade in the Combo.  
+
+:::info
+- A Combo can hold up to **10** nades. Drag them to change their order.  
+- You can add nades from your Lineups that are on the same map and side as the Combo.  
+- Combos cannot be [submitted](../metastack/submissions.md) to Metastack.  
+:::
+
 ## Using the Metastack Lineups
 
 Instead of creating everything from scratch, you can import nades from the **Metastack Content Library**:
@@ -141,6 +161,26 @@ All imported nades can be adapted to your team’s needs:
 - Use your **custom callouts**. (When importing this is done by default!)
 - Personalize **Name** for easier memorization.  
 - Add or remove images, set your custom coordinates and much more.
+
+## Managing Lineups
+
+### Quick Rename and Status Change
+On the Lineups page, open the more options menu on a nade and choose **Rename** or **Change Status**. The change is saved without opening the nade.
+
+### Selecting Multiple Nades
+You can select several nades and act on all of them at once:
+- Hover over a nade and tick its checkbox. On a touch screen, press and hold the nade.  
+- Hold **Shift** and click another nade to select everything in between.  
+- Press **Esc** or click **Clear Selection** to stop selecting.  
+
+While nades are selected, a bar at the top of the page shows the available actions:
+- **Change Status**, **Duplicate**, **Copy to**, and **Delete** on your own or your team's Lineups.  
+- **Import** on the **Metastack Lineups** tab.  
+
+:::info
+- Up to **500** nades can be selected at once.  
+- The actions you see depend on your rank, see [Permissions](../team/permissions.md). **Copy to** is explained in [Copying Across Teams](../metastack/sharing-across-teams.md).  
+:::
 
 ## Summary
 

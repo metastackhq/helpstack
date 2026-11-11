@@ -26,6 +26,14 @@ The more Metapoints you earn:
 - Top contributors will win **valuable prizes**  
 - As your impact on the platform grows, so will the **value of the rewards**  
 
+### Seasons
+
+The Leaderboard runs in **seasons**. Open **Metapoints** from the profile menu in the top-right corner, then:
+- Use the **Season** picker to switch between the current season, past seasons, and **All Time**.  
+- Use **Show Top** to see the top contributors, or **Show Me** to see your own place.  
+
+Prizes belong to a season, so they are shown when a specific season is selected.
+
 ## Why Metapoints?
 
 Metapoints are more than just numbers - they represent:

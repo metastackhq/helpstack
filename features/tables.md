@@ -40,6 +40,14 @@ If no existing strategy matches your input, you can **quick-create a new strateg
 - Each entry is **linked to the strategy from your Playbook**, so you can quickly navigate and open the strategy page.  
 - This makes Tables a powerful hub for **planning scrims, practices, and official matches**.  
 
+## Table Options
+The more options menu on the Tables page lets you:
+- **Add Row** - add an empty row to the table.  
+- **New Table** - create another table.  
+- **Rename Table** - change the name of the current table.  
+- **Status Highlights** - color each cell to match the [status](../getting-started/statuses.md) of its strategy. Toggle it on or off at any time.  
+- **Delete Table** - remove the current table.  
+
 ## Summary 
 - Organize strategies in a structured, spreadsheet-like view.  
 - Quickly search, filter, and insert existing strategies.  
