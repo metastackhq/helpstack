@@ -11,12 +11,15 @@ In the Members tab, you can view:
 
 ## Managing Members
 To manage ranks or permissions:  
-1. Navigate to **Team Settings**.  
-2. Locate the member you want to edit.  
-3. Select their new rank from the available options.  
+1. Open **Settings** from the profile menu in the top-right corner.  
+2. Under **Team Settings**, open **Members**.  
+3. Locate the member you want to edit.  
+4. Select their new rank from the dropdown next to their name.  
 
 :::info
 Only **Owners** and **Admins** can update member ranks.
+- **Owners** can assign the Admin, Member, and Viewer ranks.  
+- **Admins** can switch members between Member and Viewer. They cannot change the Owner or other Admins.  
 :::
 
 ## Ranks

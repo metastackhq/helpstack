@@ -30,7 +30,7 @@ Whether you are a casual player or part of a professional team, this Help Center
 
 ## Personalization & Settings
 - [Profile](./settings/profile.md)
-- [Profile Settings](./settings/preferences.md)
+- [Settings](./settings/preferences.md)
 
 ## Content Sharing
 - [Within a Team](./metastack/sharing.md)

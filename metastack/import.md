@@ -10,7 +10,15 @@ or **adapted to perfectly fit your team’s style**.
 - Browse the **Metastack Playbook**, **Lineups**, or **Keywords**  
 - Choose the entity you want to use  
 - Click **Import**  
-- The entity is now available in your team or personal workspace
+- Check the name, and change it if you like  
+- Select where to import it: your personal space, or up to 5 teams at once  
+- Confirm with **Import**  
+- The entity is now available in the selected spaces, with the **Active** status
+
+:::info
+- Each Strat, Nade, or Keyword can be imported once per space. If you need another one, duplicate the imported one.  
+- **Viewers** cannot import content into a team.  
+:::
 
 ## Your Choice: Use or Adapt
 

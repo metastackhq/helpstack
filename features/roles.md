@@ -45,6 +45,7 @@ On the left side of the Roles page, you can filter your **Strategy Roles** to qu
   - Custom  
   - Positional  
   - Spawn-Based  
+- **Assignee** - show only the Positional roles assigned to a specific team member. Spawn-Based and Custom roles stay in the list, since they cannot be assigned. Available in team workspaces.  
 
 :::warning
 All of the following filters are related to the strategy itself:
@@ -62,9 +63,9 @@ You can also search roles by entering **strat name**, as well as sorting by stra
 
 ## Display Options
 
-The Roles page offers two viewing modes:  
-- **Rich Display** – shows detailed information about each role’s duties, nades, weapons, and callouts.  
-- **Accordion Display** – compact view for faster browsing.  
+The Roles page offers two viewing modes. Switch between them with the two icons above the list:  
+- **List** - compact view for faster browsing. Long role descriptions are shortened to one line, and you can expand them.  
+- **Card** - shows detailed information about each role’s duties, nades, weapons, and callouts.  
 
 ## Summary
 

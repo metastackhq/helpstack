@@ -11,8 +11,9 @@ This means you’ll need a valid **Steam profile** to create and access your acc
 
 ## Steps to Create Your Account
 
-1. Click **Login**
-   - On the homepage, in the top-right corner click the **Login** button.  
+1. Open the Login Page
+   - On the homepage, in the top-right corner click **Log in** or **Get Started Free**.  
+   - On the login page, click **Log in with Steam**.  
    - You’ll be redirected to the official **Steam sign-in page**.
 
 2. Sign in with Steam

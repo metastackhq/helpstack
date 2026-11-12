@@ -8,7 +8,8 @@ They are essential for executing strategies consistently and efficiently during 
 Each nade contains a rich set of details to make it as descriptive and reusable as possible:
 
 ### Map
-Select one of the maps from the **Active Duty pool**.
+Select the map the nade is used on. The list shows the **Active Duty pool** by default.  
+To use inactive duty maps as well (e.g., Overpass, Train), turn on **Enable inactive duty maps** in **Settings → Content**.
 
 ### Side
 Choose the side where the nade is usually used:
@@ -54,8 +55,10 @@ Specifies the exact throw mechanics:
 - W + Jump Throw  
 - Left + Right Click Throw  
 - Left + Right Click Jump Throw  
+- W + Left + Right Click Jump Throw  
 - Right Click Throw  
 - Right Click Jump Throw  
+- W + Right Click Jump Throw  
 - S + Jump Throw  
 
 ### Area

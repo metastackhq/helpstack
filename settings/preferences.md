@@ -1,23 +1,23 @@
-# Profile Settings
+# Settings
 ---
 
-In the **Profile Settings** you can customize and manage your personal details.
+In **Settings** you can customize and manage your personal details. Open it from the profile menu in the top-right corner.
 
-### Editable Information
+### Account
 - **Profile Image** - upload or change your avatar.  
-- **Display Name** - update your visible name.  
+- **Name** - update your visible name.  
 - **Username** - customize your username.
 - **Email** - update your account email.  
 - **Competitive Level** - change your in-game level (see [Competitive Level](#competitive-level)).
 
-### Profile Details
+### Profile Overview
 - **Description** - a short bio or personal note.  
 - **Discord** - link your Discord handle for communication.  
 - **Region** - set your geographical region.  
-- **Spoken Languages** - list the languages you communicate in.  
+- **Languages** - list the languages you communicate in.  
 
 ### External Links
-- Add up to **10 external links** (e.g., social media, streaming channels, or personal pages).
+- In **Profile Overview**, add up to **10 external links** (e.g., social media, streaming channels, or personal pages).
 
 ## Competitive Level
 

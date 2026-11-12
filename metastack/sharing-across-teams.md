@@ -11,12 +11,12 @@ Use **Copy to** for copying a **Strat, Nade, Combo, or Keyword** to another team
 
 - Find the Strat, Nade, Combo, or Keyword you want to copy, either in its list or on its own page
 - Open the action menu and choose **Copy to**
-- Select the team, or your personal space, in the dropdown
+- Select where to copy it in the dropdown: your personal space, or up to 5 teams at once
 - Confirm
 
 ## Combos and Their Nades
 
-When you copy a **Combo**, its Nades are copied to the destination as well. The Combo and its Nades remain in the original space.
+When you copy a **Combo**, its Nades are copied to the destination as well, unless they already exist there. The Combo and its Nades remain in the original space.
 
 Copying an individual Nade leaves the Combos it belongs to unchanged.
 

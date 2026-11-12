@@ -8,7 +8,8 @@ It helps you structure your game plan and ensures consistency across matches.
 Each strat contains a rich set of details to make it as descriptive and reusable as possible:
 
 ### Map
-Select one of the maps from the **Active Duty pool**.
+Select the map the strat is played on. The list shows the **Active Duty pool** by default.  
+To use inactive duty maps as well (e.g., Overpass, Train), turn on **Enable inactive duty maps** in **Settings → Content**.
 
 ### Side
 Choose the side where the strat is usually used:
@@ -16,7 +17,7 @@ Choose the side where the strat is usually used:
 - **Terrorist**
 
 ### Type
-The type of strat:
+The type of strat. A strat can have more than one type:
 - Set Round
 - Play 
 - Opening 
@@ -55,14 +56,16 @@ Map area(s) where the strategy is primarily executed (e.g., `A Site, B Site, Mid
 ### Video Link 
 Attach a YouTube or other video reference.  
 
-### Demo Link 
-Link to a demo file showcasing the strategy.  
+### Match Link 
+Link to the match page where the strategy was used. It can come from a 2D demo viewer, HLTV, FACEIT, or any other source.  
 
 ### Round 
-Indicate in which round context the strategy is used (*pistol, buy round, eco*).  
+The round of that match where the strategy was used, as a score or a round number (e.g., `6-3` or `10`).  
 
 ### Demo Tick 
-Specify the exact tick in the demo where the strategy occurs.  
+The exact tick in the demo where the strategy occurs. Find it with the `demo_marktick` command in the in-game console, and save the tick **number** here.  
+
+On the strat page you can then copy a ready console command that jumps to that moment when replaying the demo:
 ```
 Example:
 demo_goto 555 pause 1

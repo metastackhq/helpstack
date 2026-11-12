@@ -11,13 +11,15 @@ Team ranks determine what each member can and cannot do inside a workspace.
 | Change team profile info   | ✅    | ✅    | ❌     | ❌     |
 | Invite new members         | ✅    | ✅    | ❌     | ❌     |
 | Manage member ranks        | ✅    | ✅    | ❌     | ❌     |
+| Change team owner          | ✅    | ❌    | ❌     | ❌     |
+| Delete team                | ✅    | ❌    | ❌     | ❌     |
 | Create content             | ✅    | ✅    | ✅     | ❌     |
 | Edit content               | ✅    | ✅    | ✅     | ❌     |
 | Delete content             | ✅    | ✅    | ✅     | ❌     |
 | View content               | ✅    | ✅    | ✅     | ✅     |
 
 ## Rank Descriptions
-- **Owner** – creator of the team; full permissions, cannot be removed.  
+- **Owner** – full permissions, cannot be removed. The creator of the team starts as its Owner, and can hand ownership over to another member in **Settings**.  
 - **Admin** – trusted members with management and content rights.  
 - **Member** – active contributors; focus on creating, editing, and using team content.  
 - **Viewer** – observers with read-only access.  

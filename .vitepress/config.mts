@@ -52,7 +52,7 @@ export default defineConfig({
         collapsible: true,
         items: [
           { text: 'Profile', link: '/settings/profile' },
-          { text: 'Profile Settings', link: '/settings/preferences' },
+          { text: 'Settings', link: '/settings/preferences' },
         ]
       },
       {
