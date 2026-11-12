@@ -8,6 +8,10 @@ Every player can submit their own **Strats, Nades, or Keywords** that they have 
  Only unique player-created content can be submitted.
 :::
 
+:::info
+**Combos** cannot be submitted.
+:::
+
 ## Purpose
 
 Submissions are a way for players to:

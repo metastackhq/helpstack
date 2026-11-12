@@ -106,6 +106,30 @@ All imported strategies can be adapted to your team’s needs:
 - Personalize **Name** for easier memorization.  
 - Select **tags** you want, or paste your own video link and much more.
 
+## Managing the Playbook
+
+### Filtering by Players
+The **Players** filter on the left side of the Playbook shows strats by how many players take part in them, from **1 Player** to **5 Players**.  
+The number comes from the Strategy Roles added to the strat, so **0 Players** shows strats that have no roles yet. You can pick several values at once.
+
+### Quick Rename and Status Change
+On the Playbook page, open the more options menu on a strat and choose **Rename** or **Change Status**. The change is saved without opening the strat.
+
+### Selecting Multiple Strats
+You can select several strats and act on all of them at once:
+- Hover over a strat and tick its checkbox. On a touch screen, press and hold the strat.  
+- Hold **Shift** and click another strat to select everything in between.  
+- Press **Esc** or click **Clear Selection** to stop selecting.  
+
+While strats are selected, a bar at the top of the page shows the available actions:
+- **Change Status**, **Duplicate**, **Copy to**, and **Delete** on your own or your team's Playbook.  
+- **Import** on the **Metastack Playbook** tab.  
+
+:::info
+- Up to **500** strats can be selected at once.  
+- The actions you see depend on your rank, see [Permissions](../team/permissions.md). **Copy to** is explained in [Copying Across Teams](../metastack/sharing-across-teams.md).  
+:::
+
 ## Summary
 
 - Playbook is coolection of strats.

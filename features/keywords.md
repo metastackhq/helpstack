@@ -24,6 +24,24 @@ Keywords can be:
   - Date Edited  
   - Name  
 
+### Quick Rename and Status Change
+On the Keywords page, open the more options menu on a keyword and choose **Rename** or **Change Status**. The change is saved without opening the keyword.
+
+### Selecting Multiple Keywords
+You can select several keywords and act on all of them at once:
+- Hover over a keyword and tick its checkbox. On a touch screen, press and hold the keyword.  
+- Hold **Shift** and click another keyword to select everything in between.  
+- Press **Esc** or click **Clear Selection** to stop selecting.  
+
+While keywords are selected, a bar at the top of the page shows the available actions:
+- **Change Status**, **Duplicate**, **Copy to**, and **Delete** on your own or your team's Keywords.  
+- **Import** on the **Metastack Keywords** tab.  
+
+:::info
+- Up to **500** keywords can be selected at once.  
+- The actions you see depend on your rank, see [Permissions](../team/permissions.md). **Copy to** is explained in [Copying Across Teams](../metastack/sharing-across-teams.md).  
+:::
+
 ## Best Practices
 - Keep keywords **short and memorable**.  
 - Use **consistent terminology** across your team.  

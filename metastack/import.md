@@ -37,3 +37,8 @@ This flexibility lets you **learn from the best** while still keeping your strat
 - **Save time** by starting with ready-made strategies, nades, and keywords  
 - **Stay consistent** with a shared tactical language across teams  
 - **Customize freely** to keep your own identity while building on top of the Metastack library
+
+## Feedback and Reports
+
+Found a mistake in a Metastack Strat, Nade, or Keyword, or have an idea for improving it?  
+Open its more options menu and choose **Send Feedback** or **Report**. Both take you to the Metastack Discord, where you can reach the team.

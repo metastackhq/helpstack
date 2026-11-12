@@ -45,3 +45,13 @@ Your answer is entirely subjective and private. It is not shown on your profile,
 :::tip REFERRALS
 Choosing a level is the last step of signing up. If you joined through a [referral link](/getting-started/referral-program), this is the step that earns you and your friend the reward.
 :::
+
+## Deleting Your Account
+
+1. Go to **Settings → Account**.
+2. At the bottom, under **Delete Your Account**, open the **Delete Account** page.
+3. Click **Proceed to account deletion**. This takes you to the Metastack Discord, where Metastack Support handles your request.
+
+:::warning PERMANENT
+Deleting your account cannot be undone. All Strats, Nades, and other content in your personal workspace are deleted, and you are removed from all teams.
+:::

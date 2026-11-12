@@ -31,6 +31,19 @@ Each team can customize their workspace:
 
 Whenever you browse the **Metastack Content Library**, content is automatically shown with the **current team’s personalized terms**.  
 
+## Map Pool
+
+By default, a workspace works with the maps in the **Active Duty pool**.  
+To use inactive duty maps as well (e.g., Overpass, Train), turn on **Enable inactive duty maps**:
+- **Team workspace** - go to **Settings → Team Settings → Content**.  
+- **Personal workspace** - go to **Settings → Personal Settings → Content**.  
+
+Once it is on, inactive duty maps are available across Metastack for that workspace, together with the content already created on them, both in the workspace and in the Metastack Content Library.
+
+:::info
+In a team, only the **Owner** and **Admins** can change this setting.
+:::
+
 ## Switching Between Workspaces
 
 - You can be a member of multiple teams (workspaces).  
