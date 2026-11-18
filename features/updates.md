@@ -4,6 +4,39 @@ pageClass: update-notes
 
 # Update Notes
 
+## November 18th, 2026
+### Tables `New`
+- Added the Print functionality to Tables. If you’re playing LAN tournaments, this will probably be your new go-to feature on Metastack!
+
+### UX
+- Multi-select fields now stay open while you’re making multiple selections, instead of being instantly closed every time after you make a selection
+
+### Nades, Strats, Keywords
+- Improved the design and functionality of View & View Original options inside dropdown menus on Lineups, Playbook, Keywords pages, as well as Nade, Strat, Keyword pages:
+- Additionally, View option has been renamed to View Imported
+
+### Inactive Duty Maps
+- Improved handling of edge cases when a content page is viewed from an Inactive Duty Map, inside a team that has them disabled (for example if a saved bookmark link is clicked, etc.)
+
+### Copy to & Import to
+- Improved the team pre-selection behavior in these modals, in cases when user is a member of multiple teams
+
+### Callouts
+- Improved the experience when opening a specific Callout on the mobile. It now opens in a drawer on top of the Callouts map.
+
+### Bug Fixes
+- Fixed a bug when copy/pasting links of certain objects that were imported from Metastack
+- Fixed a visual bug with the Filters section, in cases when it became too tall to fit on the screen. In those cases it now becomes scrollable
+- Fixed a bug that caused Nades or Strats to sometimes be created twice from the Create New pages
+- Fixed a bug on the Mobile that was causing incorrect behaviors on buttons that trigger dropdown menus
+- Fixed a minor bug with team deletion
+- Several additional minor bug fixes
+
+### Other
+- Added the more options dropdown menu to Public Metastack Content pages
+- Added indicator to key new features
+- Multiple minor visual and design improvements
+
 ## November 3rd, 2026
 ### Bulk select `New`
 - Added the possibility to select multiple Nades, Strats, or Keywords at once on the Lineups, Playbook and Keywords pages, and to perform actions in bulk on them
